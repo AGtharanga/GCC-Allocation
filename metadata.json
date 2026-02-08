@@ -1,0 +1,5 @@
+{
+  "name": "Olanka GCC Allocation System",
+  "description": "A comprehensive lead and resource allocation dashboard for GCC operations, featuring Kanban-style management, real-time analytics, and administrative controls.",
+  "requestFramePermissions": []
+}
